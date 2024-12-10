@@ -20,91 +20,91 @@ const clients = [
 const explore = [
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/graphics-design.d32a2f8.svg",
-    alt: "Graphics & Design"
+    alt: "Diseño Gráfico"
   },
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/online-marketing.74e221b.svg",
-    alt: "Digital Marketing"
+    alt: "Marketing Digital"
   },
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/writing-translation.32ebe2e.svg",
-    alt: "Writing & Translation"
+    alt: "Redacción y traducción"
   },
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/video-animation.f0d9d71.svg",
-    alt: "Video & Animation"
+    alt: "Video & Animación"
   },
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/music-audio.320af20.svg",
-    alt: "Music & Audio"
+    alt: "Música & Audio"
   },
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/programming.9362366.svg",
-    alt: "Programming & Tech"
+    alt: "Programación y Tecnología"
   },
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/business.bbdf319.svg",
-    alt: "Business"
+    alt: "Negocios"
   },
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/lifestyle.745b575.svg",
-    alt: "Lifestyle"
+    alt: "Estilo de vida"
   },
   {
     url: "https://fiverr-res.cloudinary.com/npm-assets/@fiverr/logged_out_homepage_perseus/apps/data.718910f.svg",
-    alt: "Data"
+    alt: "Datos"
   },
 ];
 
 const services = [
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741668/seo-2x.png",
-    moto: "Unlock growth online",
+    moto: "Desbloquee el crecimiento en línea",
     head: "SEO"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741664/illustration-2x.png",
-    moto: "Color your dreams",
-    head: "Illustration"
+    moto: "Colorea tus sueños",
+    head: "Ilustración"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741674/translation-2x.png",
-    moto: "Go global",
-    head: "Translation"
+    moto: "Global",
+    head: "Traducción"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741664/data-entry-2x.png",
-    moto: "Learn your business",
-    head: "Data Entry"
+    moto: "Conozca su negocio",
+    head: "Análisis de datos"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741678/book-covers-2x.png",
-    moto: "Showcase your story",
-    head: "Book Covers"
+    moto: "Muestra tu historia",
+    head: "Portadas de libros"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741678/logo-design-2x.png",
-    moto: "Build your brand",
-    head: "Logo Design"
+    moto: "Construye tu marca",
+    head: "Diseño de logotipo"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/ae11e2d45410b0eded7fba0e46b09dbd-1598561917003/wordpress-2x.png",
-    moto: "Customize your site",
+    moto: "Personaliza tu sitio",
     head: "Wordpress"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741669/voiceover-2x.png",
-    moto: "Share your message",
-    head: "Voice Over"
+    moto: "Comparte tu mensaje",
+    head: "Voz en off"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741663/animated-explainer-2x.png",
-    moto: "Engage your audience",
-    head: "Video Explainer"
+    moto: "Involucre a su audiencia",
+    head: "Vídeo explicativo"
   },
   {
     url: "https://fiverr-res.cloudinary.com/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741667/social-2x.png",
-    moto: "Reach more customers",
+    moto: "Llegar a más clientes",
     head: "Social Media"
   },
 ]
